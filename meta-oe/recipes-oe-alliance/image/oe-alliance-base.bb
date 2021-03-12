@@ -41,6 +41,7 @@ RDEPENDS_${PN} = "\
     minilocale \
     libavahi-client \
     libcrypto-compat-0.9.7 \
+    libcrypto-compat-0.9.8 \
     libcrypto-compat-1.0.0 \
     libxcrypt-compat \
     llmnrd \
